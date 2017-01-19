@@ -1,3 +1,2 @@
-# Cours_Dev_Mult
-
-Grid
+# GridOfThrones
+Exercice to create a grid in CSS
